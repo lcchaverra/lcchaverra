@@ -27,4 +27,4 @@ Aquí algunos de los proyectos en los que he trabajado recientemente:
 - [LinkedIn](https://www.linkedin.com/in/lcchaverra/) 💬
 - [Correo electrónico](lucas.cordoba1510@gmail.com) 📫
 
-¡Espero que esta presentación haya sido llamativa y destaque tus habilidades y pasión por el desarrollo web! ¡Gracias por revisar mi perfil! 😊
+¡Gracias por revisar mi perfil! 😊
