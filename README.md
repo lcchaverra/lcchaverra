@@ -16,7 +16,7 @@ Apasionado desarrollador web con una sed constante de aprendizaje y mejora conti
 
 Aquí algunos de los proyectos en los que he trabajado recientemente:
 
-1. [LuDev](https://github.com/lcchaverra/LuDev-v1): Esta es mi Web Personal Realizada en ReactJS donde expongo mas información acerca de mi ⚡.
+1. [LuDev](https://github.com/lcchaverra/LuDev-React): Esta es mi Web Personal Realizada en ReactJS donde expongo mas información acerca de mi ⚡.
 2. [FlyChallenge](https://github.com/lcchaverra/FlyChallenge): Web desarrollada en ReactJs con Firebase la cual ganó la competencia FlyChallenge Organizada Por Helppeoplecloud.
 3. [DigitalOcean-Home](https://github.com/lcchaverra/Digital-Ocean-Home): Web de Practica de conocimientos en Tailwind CSS.
 
