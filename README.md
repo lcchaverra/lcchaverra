@@ -19,6 +19,7 @@ Aquí algunos de los proyectos en los que he trabajado recientemente:
 1. [LuDev](https://github.com/lcchaverra/LuDev-React): Esta es mi Web Personal Realizada en ReactJS donde expongo mas información acerca de mi ⚡.
 2. [FlyChallenge](https://github.com/lcchaverra/FlyChallenge): Web desarrollada en ReactJs con Firebase la cual ganó la competencia FlyChallenge Organizada Por Helppeoplecloud.
 3. [DigitalOcean-Home](https://github.com/lcchaverra/Digital-Ocean-Home): Web de Practica de conocimientos en Tailwind CSS.
+4. [Instagram-Profile](https://github.com/lcchaverra/Instagram-Profile-Section-Copy): Sesion de perfil de instagram, maquetada con html y css (sass), para el primer modulo del bootcamp de rio software.
 
 ## Contáctame 📩
 
