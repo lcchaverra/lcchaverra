@@ -5,7 +5,7 @@ Apasionado desarrollador web con una sed constante de aprendizaje y mejora conti
 ## Habilidades 💻
 
 - Front-end: HTML, CSS (Sass), JavaScript, TypeScript, React JS, Tailwind CSS, Redux
-- Back-end: C#, PHP,
+- Back-end: Python, C#, PHP,
 - Bases de datos: Firebase, SQL
 
 ## Acerca de mí 🧑‍💻
