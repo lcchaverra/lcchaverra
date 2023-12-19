@@ -29,4 +29,15 @@ Aquí algunos de los proyectos en los que he trabajado recientemente:
 - [LinkedIn](https://www.linkedin.com/in/lcchaverra/) 💬
 - [Correo electrónico](lucas.cordoba1510@gmail.com) 📫
 
+## 🌐 Redes Sociales:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/Lucas.cord2/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/lu151_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lcchaverra/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@lu151_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCN9sFtkCpOEhnpw0TQLohvw) 
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=lcchaverra&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=lcchaverra&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lcchaverra&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=lcchaverra&icon=0&color=0)](https://visitcount.itsvg.in)
+
 ¡Gracias por revisar mi perfil! 😊
