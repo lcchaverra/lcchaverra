@@ -18,13 +18,12 @@ Apasionado desarrollador web con una sed constante de aprendizaje y mejora conti
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) 
 
 ### Backend
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -33,10 +32,9 @@ Apasionado desarrollador web con una sed constante de aprendizaje y mejora conti
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) 
 
 ### Movil
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
@@ -44,14 +42,9 @@ Apasionado desarrollador web con una sed constante de aprendizaje y mejora conti
 ### Otros
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
-![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
@@ -60,13 +53,14 @@ Apasionado desarrollador web con una sed constante de aprendizaje y mejora conti
 
 ## Proyectos destacados 🔝
 
-Aquí algunos de los proyectos en los que he trabajado recientemente:
+Aquí algunos de los proyectos que me gustaria destacar:
 
-1. [LuDev](https://github.com/lcchaverra/LuDev-React): Esta es mi Web Personal Realizada en ReactJS donde expongo mas información acerca de mi ⚡.
-2. [FlyChallenge](https://github.com/lcchaverra/FlyChallenge): Web desarrollada en ReactJs con Firebase la cual ganó la competencia FlyChallenge Organizada Por Helppeoplecloud.
-3. [Idiomas en Señas](https://github.com/lcchaverra/Idiomas_en_senas): landing page desarrollada para el voluntareado de idiomas en señas. 
-4. [DigitalOcean-Home](https://github.com/lcchaverra/Digital-Ocean-Home): Web de Practica de conocimientos en Tailwind CSS.
-5. [Instagram-Profile](https://github.com/lcchaverra/Instagram-Profile-Section-Copy): Sesion de perfil de instagram, maquetada con html y css (sass), para el primer modulo del bootcamp de rio software.
+1. [Portafolio]([https://github.com/lcchaverra/LuDev-React](https://github.com/lcchaverra/Lucas-Portafolio)): Esta es mi Web Personal Realizada en Next js donde expongo mas información acerca de mi ⚡.
+2. [Api Rest Springboot](https://github.com/lcchaverra/api-springboot-test): Api Rest creada con java y el framework de spring boot con JPA para el mapeo de las bases de datos.
+3. [Api Rest Node js](https://github.com/lcchaverra/api-node): Api Rest Creada Con Node Js, con el Framework Express JS, Con Conexion a base de datos Mysql y MongoDB, emplea la Arquitectura MVC.
+4. [Employeapp](https://github.com/lcchaverra/employeapp): App móvil realizada con react native, centrada en la gestión de empleos.
+5. [Search App](https://github.com/lcchaverra/TestApp): App movil Desarrollada con React Native + Native Base, como un conceptos prácticos, la aplicacion tiene un buscador el cual se conecta a un api y devuelve las búsquedas ingresadas y una sección de imágenes de la misma.
+7. [Drawing-Real-Time](https://github.com/lcchaverra/Drawing-Real-Time): App de node js con socket.io, donde la finalidad fue crear una pizarra de dibujo en tiempo real para multiples usuarios.
 
 ## Contáctame 📩
 
@@ -76,7 +70,9 @@ Aquí algunos de los proyectos en los que he trabajado recientemente:
 - [Correo electrónico](lucas.cordoba1510@gmail.com) : lucas.cordoba1510@gmail.com 📫
 
 ## 🌐 Redes Sociales:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/Lucas.cord2/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/lu151_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lcchaverra/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@lu151_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCN9sFtkCpOEhnpw0TQLohvw) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/Lucas.cord2/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lcchaverra/) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCN9sFtkCpOEhnpw0TQLohvw) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=lcchaverra&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
